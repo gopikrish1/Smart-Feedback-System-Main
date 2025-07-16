@@ -198,7 +198,7 @@ const Room = () => {
                       <th className='px-4 py-2'>Username</th>
                       <th className='px-4 py-2'>Rating</th>
                       <th className='px-4 py-2'>Comment</th>
-                      <th className='px-4 py-2'>Timestamp</th>
+                      <th className='px-4 py-2'>Time</th>
                     </tr>
                   </thead>
                   <tbody>
