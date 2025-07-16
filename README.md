@@ -78,12 +78,16 @@ npm start
 5. **Access the platform in your browser** at `http://localhost:3000`.
 
 ## **Screenshots**
-**1. HomePage**:
-![Image 1](https://raw.githubusercontent.com/gopikrish1/Smart-Feedback-System-Main/main/images/HomePage.png)
-**2. Feedback Page**:
-![Image 2](https://raw.githubusercontent.com/gopikrish1/Smart-Feedback-System-Main/main/images/FeedbackPage.png)
-**3. Creator's Dashboard**:
-![Image 3](https://raw.githubusercontent.com/gopikrish1/Smart-Feedback-System-Main/main/images/DashBoard.png)
+## 📸 Screenshots
+
+### 🏠 Home Page
+![HomePage](https://raw.githubusercontent.com/gopikrish1/Smart-Feedback-System-Main/main/images/HomePage.png)
+
+### 📝 Feedback Page
+![FeedbackPage](https://raw.githubusercontent.com/gopikrish1/Smart-Feedback-System-Main/main/images/FeedbackPage.png)
+
+### 📊 Creator's Dashboard
+![Dashboard](https://raw.githubusercontent.com/gopikrish1/Smart-Feedback-System-Main/main/images/DashBoard.png)
 
 
 ## **Conclusion**
