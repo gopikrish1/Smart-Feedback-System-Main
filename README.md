@@ -75,9 +75,10 @@ npm install
 npm start
 
 
-5. **Access the platform in your browser** at `http://localhost:3000`.
+# 5. Access the platform in your browser
+Open `http://localhost:3000`.
 
-## **Screenshots**
+```
 ## 📸 Screenshots
 
 ### 🏠 Home Page
