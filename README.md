@@ -63,7 +63,7 @@ The **Realtime Feedback System** is a web-based platform designed to collect and
 
 ```bash
 # 1. Clone the repository
-git clone https://github.com/gopikrish1/Realtime-Feedback-Form.git
+git clone https://github.com/gopikrish1/Smart-Feedback-System-Main.git
 
 # 2. Navigate to the project directory
 cd smart-feedback-system
